@@ -1,6 +1,5 @@
 // Add only verified information and exact profile/repository URLs.
 export const profile = {
-  name: 'Ricardo Guilherme',
   fullName: 'Ricardo Dias Guilherme',
   title: 'Computer Science Student',
   focus: 'Software Engineering',

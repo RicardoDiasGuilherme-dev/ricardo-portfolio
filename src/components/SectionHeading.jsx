@@ -3,10 +3,9 @@ export default function SectionHeading({
   title,
   children,
   id,
-  className = '',
 }) {
   return (
-    <div className={`section-heading ${className}`}>
+    <div className="section-heading">
       <p className="eyebrow">
         <span />
         {eyebrow}

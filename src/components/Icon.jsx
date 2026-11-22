@@ -31,17 +31,6 @@ const icons = {
       <circle cx="12" cy="10" r="2.5" />
     </>
   ),
-  camera: (
-    <>
-      <path d="M3 8h4l2-3h6l2 3h4v11H3z" />
-      <circle cx="12" cy="13.5" r="3" />
-    </>
-  ),
-  external: (
-    <>
-      <path d="M14 3h7v7m0-7L10 14M10 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-5" />
-    </>
-  ),
   github: (
     <>
       <path
@@ -85,11 +74,6 @@ const icons = {
       <path d="m5 12 4 4L19 6" />
     </>
   ),
-  play: (
-    <>
-      <path d="m9 5 11 7-11 7V5Z" />
-    </>
-  ),
   file: (
     <>
       <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6Z" />
@@ -117,11 +101,6 @@ const icons = {
       <circle cx="12" cy="12" r="9" />
       <ellipse cx="12" cy="12" rx="4" ry="9" />
       <path d="M3 12h18" />
-    </>
-  ),
-  chevron: (
-    <>
-      <path d="m6 9 6 6 6-6" />
     </>
   ),
   copy: (

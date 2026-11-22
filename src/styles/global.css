@@ -32,11 +32,9 @@
 html { scroll-behavior: smooth; scroll-padding-top: 100px; }
 body { margin: 0; min-width: 320px; color: var(--text); background: var(--bg); font-size: 1rem; line-height: 1.7; }
 button, a, video { -webkit-tap-highlight-color: transparent; }
-button, input { font: inherit; }
 a { color: inherit; text-decoration: none; }
-button { cursor: pointer; }
+button { font: inherit; cursor: pointer; }
 button, a { touch-action: manipulation; }
-button:disabled { cursor: default; }
 svg { flex-shrink: 0; vertical-align: middle; }
 p, h1, h2, h3 { margin: 0; }
 ul { list-style: none; padding: 0; margin: 0; }
