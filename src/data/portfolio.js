@@ -34,7 +34,7 @@ export const navigation = [
   { id: 'about', label: 'About' },
   { id: 'projects', label: 'Projects' },
   { id: 'skills', label: 'Skills' },
-  { id: 'video-pitch', label: 'Video Pitch' },
+  { id: 'resume', label: 'CV' },
   { id: 'contact', label: 'Contact' },
 ]
 

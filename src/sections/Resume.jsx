@@ -17,7 +17,7 @@ export default function Resume() {
           </div>
           <div className="resume-copy">
             <p className="small-label">THE FULL PICTURE</p>
-            <h2 id="resume-title">My experience, on paper.</h2>
+            <h2 id="resume-title">Curriculum Vitae</h2>
             <p>A closer look at my education, technical skills, and professional interests.</p>
           </div>
           {assets.cv && (

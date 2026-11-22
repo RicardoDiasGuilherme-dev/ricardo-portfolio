@@ -4,7 +4,6 @@ import Hero from './sections/Hero'
 import About from './sections/About'
 import Projects from './sections/Projects'
 import Skills from './sections/Skills'
-import VideoPitch from './sections/VideoPitch'
 import Resume from './sections/Resume'
 import Contact from './sections/Contact'
 
@@ -20,7 +19,6 @@ export default function App() {
         <About />
         <Projects />
         <Skills />
-        <VideoPitch />
         <Resume />
         <Contact />
       </main>

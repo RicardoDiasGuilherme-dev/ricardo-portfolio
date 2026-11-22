@@ -20,8 +20,6 @@ export default defineConfig({
         publicAsset('profile.png') ||
         publicAsset('profile.webp'),
       cv: publicAsset('cv.pdf'),
-      video: publicAsset('videos/pitch.mp4'),
-      captions: publicAsset('videos/pitch.vtt'),
     }),
   },
 })
