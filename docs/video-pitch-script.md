@@ -1,0 +1,7 @@
+# Personal introduction video script
+
+**Target:** approximately one minute. The script below contains 121 words. Rehearse naturally, time the actual recording, and trim pauses or wording as needed to keep the final video at or below 60 seconds.
+
+> Hello, I'm Ricardo Dias Guilherme, a third-year Computer Science student at the University Polytechnic of Beja, in Portugal. I'm particularly interested in backend development and software engineering, and I enjoy understanding how applications work behind the scenes. Through my studies, I've worked with technologies including Java, Spring Boot, Python, and SQL. In a personal task management API project, I implemented CRUD operations, used Git and GitHub, and developed tests to validate functionality. I value clear communication, teamwork, and an approach based on learning, solving problems, and improving continuously. I'm looking for a curricular internship in software development where I can contribute to real projects, learn from a development team, and bring curiosity, adaptability, and a willingness to take on new challenges.
+
+Record in a quiet place with clear audio and even lighting. Speak to the camera at a comfortable pace, and make sure the spoken facts match your CV and website. Export the real recording to `public/videos/pitch.mp4`; add accurate English captions at `public/videos/pitch.vtt` if possible. Restart the development server or rebuild after adding the files.
